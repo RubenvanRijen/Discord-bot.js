@@ -80,7 +80,7 @@ This is a fun Discord bot project written in JavaScript. It includes a wide vari
 - Retrieves lyrics for a specified song
 
 ### /maagd
-- A fun command (functionality not specified)
+- A fun command to show a virgin/maagd a fun response
 
 ### /meme
 - Gets a random meme from popular subreddits
